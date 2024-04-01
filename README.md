@@ -1,1 +1,10 @@
 [Assignment Deep Learning.pdf](https://github.com/DanielShapi4a/MachineLearning-MNIST-Dataset/files/14825051/Assignment.Deep.Learning.pdf)
+
+![image](https://github.com/DanielShapi4a/MachineLearning-MNIST-Dataset/assets/116350669/4e189e10-d634-4624-b488-2d69d307d359)
+![image](https://github.com/DanielShapi4a/MachineLearning-MNIST-Dataset/assets/116350669/9e341658-d561-40eb-aa54-e5f832a73535)
+![image](https://github.com/DanielShapi4a/MachineLearning-MNIST-Dataset/assets/116350669/4444f7ea-6632-486b-9381-25796c3ba461)
+![image](https://github.com/DanielShapi4a/MachineLearning-MNIST-Dataset/assets/116350669/a054d0f1-9f56-4958-b312-032d0ac48ca4)
+![image](https://github.com/DanielShapi4a/MachineLearning-MNIST-Dataset/assets/116350669/a710d59d-552f-4376-805f-4feeeeccd0d0)
+![image](https://github.com/DanielShapi4a/MachineLearning-MNIST-Dataset/assets/116350669/9992febb-bfe5-413f-b0d1-a4cf766b7103)
+![image](https://github.com/DanielShapi4a/MachineLearning-MNIST-Dataset/assets/116350669/c360d8f8-b317-4753-8500-a47973432dce)
+![image](https://github.com/DanielShapi4a/MachineLearning-MNIST-Dataset/assets/116350669/1b910503-8651-455d-9983-abdb72e01ccf)
